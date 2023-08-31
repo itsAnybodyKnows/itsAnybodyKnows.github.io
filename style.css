@@ -1,0 +1,5 @@
+/* Style your image to scale with the window width */
+img {
+    max-width: 100%; /* Make the image scale to the width of its container */
+    height: auto; /* Maintain the image's aspect ratio */
+}
